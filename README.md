@@ -1,5 +1,7 @@
 # 💫 About Me:
-✍🏻I am currently studying multiplatform application development.<br>📷I also study photography on my own.
+✍🏻 I am currently studying multiplatform application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Telesforo Bravo</a> .<br>
+📷 I also study photography on my own.<br/>
+💻 Coding is a form of art.
 
 
 ## 🌐 Socials:
