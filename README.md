@@ -1,5 +1,5 @@
 # 💫 About Me:
-✍🏻I am currently studying multiplatform application development.<br>📷I also study photography on my own
+✍🏻I am currently studying multiplatform application development.<br>📷I also study photography on my own.
 
 
 ## 🌐 Socials:
