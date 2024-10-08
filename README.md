@@ -23,7 +23,8 @@
 </table>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jonaykb&row=1&column=4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jonaykb&row=1&column=4&theme=radical&no-frame=false&no-bg=true&margin-w=10)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JonayKB&icon=0&color=5)](https://visitcount.itsvg.in)
