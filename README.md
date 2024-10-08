@@ -10,10 +10,14 @@
 # 📊 GitHub Stats:
 <table>
   <td width="60%" align="center">
+    
     ![](https://github-readme-streak-stats.herokuapp.com/?user=JonayKB&theme=radical&hide_border=false)
+    
   </td>
   <td width="40%" align="center>
+    
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonayKB&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+    
   </td>
 </table>
 
