@@ -23,7 +23,10 @@
 </table>
 
 ## 🏆 GitHub Trophies
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=jonaykb&row=1&column=4&theme=radical&no-frame=false&no-bg=true&margin-w=10)
+  
+</div>
 
 
 ---
