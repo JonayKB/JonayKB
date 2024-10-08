@@ -11,7 +11,7 @@
 <table width="100%">
   <td width="60%" align="center">
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonayKB&theme=radical&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=JonayKB&theme=radical&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonayKB&theme=radical&hide_border=false"/>
 
   </td>
   <td width="40%" align="center">
