@@ -10,8 +10,9 @@
 # 💻 Tech Stack:
 <div align="center">
   <table>
+    <!-- Primera fila -->
     <tr>
-      <td>
+      <td style="max-width: 300px; vertical-align: top;">
         <h3>Web Development</h3>
         <p>
           <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -20,13 +21,8 @@
           <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
           <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"/>
         </p>
-
-        <h3>Frontend Frameworks</h3>
-        <p>
-          <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-        </p>
       </td>
-      <td>
+      <td style="max-width: 300px; vertical-align: top;">
         <h3>Backend and Databases</h3>
         <p>
           <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -36,7 +32,8 @@
           <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
           <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
         </p>
-
+      </td>
+      <td style="max-width: 300px; vertical-align: top;">
         <h3>DevOps and CI/CD</h3>
         <p>
           <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -44,20 +41,25 @@
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
         </p>
       </td>
-      <td>
+    </tr>
+    <!-- Segunda fila -->
+    <tr>
+      <td style="max-width: 300px; vertical-align: top;">
         <h3>Code Quality and Testing</h3>
         <p>
           <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
           <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white"/>
         </p>
-
+      </td>
+      <td style="max-width: 300px; vertical-align: top;">
         <h3>Tools and Utilities</h3>
         <p>
           <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
           <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
           <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
         </p>
-
+      </td>
+      <td style="max-width: 300px; vertical-align: top;">
         <h3>Design and Media</h3>
         <p>
           <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
@@ -68,6 +70,8 @@
     </tr>
   </table>
 </div>
+
+
 
 # 📊 GitHub Stats:
 <table width="100%" align="center">
