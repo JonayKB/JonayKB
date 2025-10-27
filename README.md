@@ -1,5 +1,5 @@
 # 💫 About Me:
-✍🏻 I am currently studying multiplatform application development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Telesforo Bravo</a> .<br>
+✍🏻 I am currently studying web development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Telesforo Bravo</a> .<br>
 📷 I also study photography on my own.<br/>
 💻 Coding is a form of art.<br/>
 🚧 Currently working on Routine Fights.
