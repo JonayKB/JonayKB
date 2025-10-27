@@ -90,8 +90,6 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jonaykb&row=1&column=4&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
-<img src="https://raw.githubusercontent.com/jonaykb/jonaykb/output/snake.svg" alt="Snake animation" />
-
 </div>
 
 
