@@ -83,7 +83,7 @@
 
   </td>
   <td width="60%" align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=jonaykb&hide=html,blade&theme=codeSTACKr&layout=pie&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaykb&hide=html,blade&theme=codeSTACKr&layout=pie&hide_border=false&include_all_commits=true&count_private=true"/>
     
   </td>
 </table>
