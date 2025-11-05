@@ -79,11 +79,11 @@
 <table width="100%" align="center">
   <td width="40%" align="center">
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonayKB&theme=radical&hide_border=false"/>
+  <img src="https://jonaykb-github-readme-streak-stats.vercel.app/?user=JonayKB&theme=radical&hide_border=false"/>
 
   </td>
   <td width="60%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaykb&hide=html,blade&theme=codeSTACKr&layout=pie&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://jonaykb-readme-stats-nine-tau.vercel.app/api/top-langs/?username=jonaykb&hide=html,blade&theme=codeSTACKr&layout=pie&hide_border=false&include_all_commits=true&count_private=true"/>
     
   </td>
 </table>
