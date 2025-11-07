@@ -76,11 +76,10 @@
 
 
 # 📊 GitHub Stats:
+<img src="https://jonaykb-github-readme-streak-stats.vercel.app/?user=JonayKB&theme=radical&hide_border=false"/>
 <table width="100%" align="center">
   <td align="center">
-    
   <img src="https://jonaykb-github-readme-streak-stats.vercel.app/?user=JonayKB&theme=radical&hide_border=false"/>
-
   </td>
   <td align="center">
   <img src="https://jonaykb-readme-stats-nine-tau.vercel.app/api/top-langs/?username=jonaykb&hide=html,blade&theme=codeSTACKr&layout=pie&hide_border=false&include_all_commits=true&count_private=true"/>
