@@ -81,10 +81,10 @@
 </div>
 
 <table width="100%" align="center">
-  <td align="center">
+  <td align="center" width="40%">
   <img src="https://jonaykb-readme-stats-nine-tau.vercel.app/api/wakatime?username=JonayKB"/>
   </td>
-  <td align="center">
+  <td align="center" width="60%">
   <img src="https://jonaykb-readme-stats-nine-tau.vercel.app/api/top-langs/?username=jonaykb&hide=html,blade&theme=codeSTACKr&layout=pie&hide_border=false&include_all_commits=true&count_private=true"/>
   
     
