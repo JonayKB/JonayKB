@@ -80,7 +80,7 @@
   
 </div>
 
-<table width="100%" align="center">
+<table width="80%" align="center">
   <td align="center" width="50%">
   <img src="https://jonaykb-readme-stats-nine-tau.vercel.app/api/wakatime?username=JonayKB&theme=radical"/>
   </td>
