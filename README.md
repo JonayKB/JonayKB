@@ -76,7 +76,7 @@
 
 
 # 📊 GitHub Stats:
-<div width="100%" align="center" margin="100px">
+<div width="100%" align="center" style="margin:100px;">
   <img src="https://jonaykb-github-readme-streak-stats.vercel.app/?user=JonayKB&theme=radical&hide_border=false" width="60%"/>
 </div>
 
