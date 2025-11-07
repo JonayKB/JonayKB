@@ -85,7 +85,7 @@
   <img src="https://jonaykb-readme-stats-nine-tau.vercel.app/api/wakatime?username=JonayKB&theme=radical"/>
   </td>
   <td align="center" width="50%">
-    <img src="https://jonaykb-github-readme-streak-stats.vercel.app/?user=JonayKB&theme=radical&hide_border=false" width="60%"/>
+    <img src="https://jonaykb-github-readme-streak-stats.vercel.app/?user=JonayKB&theme=radical&hide_border=false"/>
   <img src="https://jonaykb-readme-stats-nine-tau.vercel.app/api/top-langs/?username=jonaykb&hide=html,blade&theme=radical&layout=pie&hide_border=false&include_all_commits=true&count_private=true"/>
   </td>
 </table>
