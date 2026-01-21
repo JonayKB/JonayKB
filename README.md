@@ -5,9 +5,9 @@
 🚧 Currently working on Routine Fights.
 <div align="center">
   <a href="https://me.jonaykb.com" target="_blank">
-    <img src="https://me.jonaykb.com" alt="JonayKB Portfolio" width="100%" style="border-radius: 10px;">
+    <img src="https://me.jonaykb.com/og-image.webp" alt="JonayKB Portfolio" width="100%" style="border-radius: 10px;">
+    <p><i>Personal Profolio</i></p>
   </a>
-  <p><i>Personal Profolio</i></p>
 </div>
 
 ## 🌐 Socials:
