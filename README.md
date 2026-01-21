@@ -3,7 +3,12 @@
 📷 I also study photography on my own.<br/>
 💻 Coding is a form of art.<br/>
 🚧 Currently working on Routine Fights.
-
+<div align="center">
+  <a href="https://me.jonaykb.com" target="_blank">
+    <img src="https://me.jonaykb.com" alt="JonayKB Portfolio" width="100%" style="border-radius: 10px;">
+  </a>
+  <p><i>Personal Profolio</i></p>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonaykb_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonay-contreras-rodriguez-41164430a/) [![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=gmail&logoColor=white)](mailto:jonaykb@gmail.com)
