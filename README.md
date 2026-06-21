@@ -2,7 +2,7 @@
 ✍🏻 I am currently studying web development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/">IES Telesforo Bravo</a> .<br>
 📷 I also study photography on my own.<br/>
 💻 Coding is a form of art.<br/>
-🚧 Currently working on Movies X Movies.
+🚧 Currently working on KB Slot Engine.
 <div align="center">
   <a href="https://me.jonaykb.com" target="_blank">
     <img src="https://me.jonaykb.com/og-image.webp" alt="JonayKB Portfolio" width="100%" style="border-radius: 30px;">
